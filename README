@@ -1,0 +1,3 @@
+A quick analysis and prediction against the Practice Fusion Kaggle dataset. This project will grow as I expand the predictions from simple fixed effects to a selection of ICD9 codes.
+
+However, I plan to do this without any prior "domain" knowledge diabetes symptoms. 
