@@ -4,6 +4,7 @@ a selection of ICD9 codes.
 
 However, I plan to do this without any prior "domain" knowledge of diabetes symptoms. 
 
-The initial analysis had a logit and random forest compete against one another. The specific question was to estimate the 
-number of undiagnosed diabetes. Thus, you will see some extra splitting of the dataset to create a sample of patients who 
-may have diabetes but have not been diagnosed by their physician.
+The initial analysis had a logit and random forest compete against one another. The 
+specific question was to estimate the number of undiagnosed diabetes. Thus, you 
+will see some extra splitting of the dataset to create a sample of patients who may
+have diabetes but have not been diagnosed by their physician.
