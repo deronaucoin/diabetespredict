@@ -2,4 +2,8 @@ A quick analysis and prediction against the Practice Fusion Kaggle dataset.
 This project will grow as I expand the predictions from using main effects to
 a selection of ICD9 codes.
 
-However, I plan to do this without any prior "domain" knowledge diabetes symptoms. 
+However, I plan to do this without any prior "domain" knowledge of diabetes symptoms. 
+
+The initial analysis had a logit and random forest compete against one another. The specific question was to estimate the 
+number of undiagnosed diabetes. Thus, you will see some extra splitting of the dataset to create a sample of patients who 
+may have diabetes but have not been diagnosed by their physician.
